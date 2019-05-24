@@ -7,7 +7,7 @@ steps:
 - Implement a Neural Network
 
 # Convolutional Neural Networks
-Helper functions that implements a three-layer ConvNet in Tensorflow:
+Helper functions that implements a three-layer ConvNet in Tensorflow (CNNtensorflow.py):
     CONV2D -> RELU -> MAXPOOL -> CONV2D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNECTED
 The model consists of the following steps:
 - create placeholders
